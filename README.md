@@ -1,4 +1,16 @@
-# HumanHours MCP Server
+<p align="center">
+  <a href="https://humanhours.dev">
+    <img src="https://humanhours.dev/icon.svg" alt="HumanHours" width="96" height="96" />
+  </a>
+</p>
+
+<h1 align="center">HumanHours MCP Server</h1>
+
+<p align="center">
+  <em>Every agent, measured in human hours.</em><br/>
+  <a href="https://humanhours.dev">humanhours.dev</a> ·
+  <a href="https://humanhours.dev/docs/mcp">MCP docs</a>
+</p>
 
 Track agent ROI and enrich companies straight from any MCP client. HumanHours is a
 remote, hosted MCP server: connect once with your HumanHours account and your agents
